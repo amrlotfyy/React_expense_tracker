@@ -7,7 +7,7 @@
   text-align: center;
 }
 
-.new-expense button {
+.new-expense_button {
   font: inherit;
   cursor: pointer;
   padding: 1rem 2rem;
